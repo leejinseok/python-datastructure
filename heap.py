@@ -1,3 +1,4 @@
+# 최소힙
 class Heap:
   def __init__(self):
     self.arr = [None, ]
